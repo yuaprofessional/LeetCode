@@ -9,6 +9,10 @@ class Solution {
         int right = 1;
         while(right < n)
         {
+            if(nums.length == 0)
+            {
+                return 0;
+            }
             if(nums[left] == nums[right])
             {
                 right++;

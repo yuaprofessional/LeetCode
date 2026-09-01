@@ -17,7 +17,7 @@ class Solution {
             {
                 right++;
             }
-            else if(nums[left] != nums[right])
+            else
             {
                 left++;
                 int temp = nums[left];

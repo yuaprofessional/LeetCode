@@ -7,7 +7,7 @@ class Solution {
         //loop
         int left = 0;
         int right = 1;
-        while(left < right && right < n)
+        while(right < n)
         {
             if(nums[left] == nums[right])
             {

@@ -4,7 +4,7 @@ class Solution {
         int buy = 0;
         int sell = 1;
         int n = prices.length;
-        int maxprofit = 0;
+        int maxProfit = 0;
 
         while(buy < sell && sell < n)
         {
@@ -15,10 +15,10 @@ class Solution {
             else
             {
                 int profit = prices[sell] - prices[buy];
-                maxprofit = Math.max(maxprofit,profit);
+                maxProfit = Math.max(maxProfit,profit);
             }
             sell++;
         }
-        return maxprofit;
+        return maxProfit;
     }
 }

@@ -13,7 +13,7 @@ class Solution {
             }
         }    
 
-        for(int repeat = 0 ; repeat < freq.length ; repeat++)
+        for(int repeat = 1 ; repeat < freq.length ; repeat++)
         {
             if(freq[repeat] > 1)
             {

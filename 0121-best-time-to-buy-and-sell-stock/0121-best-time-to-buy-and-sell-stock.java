@@ -2,23 +2,22 @@ class Solution {
     public int maxProfit(int[] prices) 
     {
         int buy = 0;
-        int sell = 1;
-        int n = prices.length;
-        int maxProfit = 0;
+        int maxprofit = 0;
 
-        while(buy < sell && sell < n)
+        for(int price = 0 ; price < prices.length - 1 ; price++)
         {
-            if(prices[buy] > prices[sell])
+            int sell =  price + 1;
+
+            if(prices[buy] < prices[sell])
             {
-                buy = sell;
+                int profit = prices[sell] - prices[buy];
+                maxprofit = Math.max(maxprofit,profit);
             }
             else
             {
-                int profit = prices[sell] - prices[buy];
-                maxProfit = Math.max(maxProfit,profit);
+                buy = sell;
             }
-            sell++;
         }
-        return maxProfit;
+        return maxprofit;
     }
 }

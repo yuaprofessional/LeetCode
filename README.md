@@ -12,10 +12,12 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yuaprofessional/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuaprofessional/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0643-maximum-average-subarray-i](https://github.com/yuaprofessional/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [2965-find-missing-and-repeated-values](https://github.com/yuaprofessional/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yuaprofessional/LeetCode/tree/master/0001-two-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/yuaprofessional/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,4 +52,12 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/yuaprofessional/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+## Math
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/yuaprofessional/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/yuaprofessional/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->

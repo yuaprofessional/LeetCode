@@ -16,6 +16,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuaprofessional/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/yuaprofessional/LeetCode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/yuaprofessional/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/yuaprofessional/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/yuaprofessional/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/yuaprofessional/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -23,6 +24,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/yuaprofessional/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/yuaprofessional/LeetCode/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/yuaprofessional/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/yuaprofessional/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -97,4 +99,5 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/yuaprofessional/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/yuaprofessional/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
